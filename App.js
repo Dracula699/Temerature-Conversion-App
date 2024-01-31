@@ -1,4 +1,4 @@
-// Hello my name is sai thkare
+// Hello my name is Sai Thakare
 //The text Temperature Application looks like a CTA, change it. 👌
 // the values should be parsed on float not in int which is leading to wrongoutputs. 👌
 // there should be an another dropdown where user can select which unit hewants to convert the temperature. 👌
